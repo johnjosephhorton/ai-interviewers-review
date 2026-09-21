@@ -6,5 +6,6 @@
   "search_backend": "sqlite_fts5",
   "default_output": "text",
   "topic": "AI interviewers",
-  "research_question": "How are AI interviewers designed and evaluated, and how do they affect interview quality, respondent experience, and resulting data compared with human or conventional interviewing?"
+  "research_question": "How are AI interviewers designed and evaluated, and how do they affect interview quality, respondent experience, and resulting data compared with human or conventional interviewing?",
+  "site_url": "https://john-joseph-horton.com/ai-interviewers-review/"
 }

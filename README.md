@@ -5,6 +5,8 @@ A literature review built with [Dewey](https://github.com/expectedparrot/dewey),
 
 **Research question:** How are AI interviewers designed and evaluated, and how do they affect interview quality, respondent experience, and resulting data compared with human or conventional interviewing?
 
+**[Read the literature explorer](https://john-joseph-horton.com/ai-interviewers-review/)**
+
 Read the [review scope and instructions](instructions.md). The explorer brings together conclusions, study comparisons, papers, citation links, and screening history.
 
 To browse offline, download or clone this repository and open `docs/index.html` in a browser. Keep `docs/index.assets/` alongside it for PDF links. GitHub displays HTML files as source code.
