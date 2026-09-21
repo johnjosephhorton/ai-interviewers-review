@@ -1,0 +1,76 @@
+{
+  "claim_id": "claim_afb1fe75ab9d",
+  "theme_ids": [
+    "theme_7cecdb951a7e",
+    "theme_81234566d951"
+  ],
+  "statement": "Adaptive probing produces selective rather than universal improvements, and its value depends on probe purpose and interview stage while imposing additional burden.",
+  "scope": "Short online survey and HCI interview tasks using LLM-generated follow-ups.",
+  "evidence": [
+    {
+      "finding_id": "finding_c05f59d95f48",
+      "relationship": "supports",
+      "rationale": "Randomized probing increased specificity and explanation but not every qualitative or textual quality measure."
+    },
+    {
+      "finding_id": "finding_09aa2df4aadb",
+      "relationship": "supports",
+      "rationale": "Different probe types and research stages generated materially different response-quality profiles."
+    },
+    {
+      "finding_id": "finding_3a1cfaeb8fe1",
+      "relationship": "qualifies",
+      "rationale": "Open-ended probing increased time, modestly worsened experience, and produced early attrition."
+    },
+    {
+      "finding_id": "finding_dc3b9b2618e4",
+      "relationship": "qualifies",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_7e39509deda6",
+      "relationship": "supports",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_5cd4384055e2",
+      "relationship": "qualifies",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_2c7b181eb6f7",
+      "relationship": "supports",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_d5235f8ab82d",
+      "relationship": "supports",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_85673405f4c3",
+      "relationship": "supports",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_2356641420a1",
+      "relationship": "qualifies",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_d8050d6897ef",
+      "relationship": "qualifies",
+      "rationale": "Full-text evidence added in the expanded reviewed tranche."
+    },
+    {
+      "finding_id": "finding_19c1914293f1",
+      "relationship": "supports",
+      "rationale": "Applied comparison supports respondent-specific over generic probing, with important design limitations."
+    }
+  ],
+  "confidence": "moderate",
+  "confidence_rationale": "Two experiments converge that probing effects are multidimensional and conditional; samples and tasks remain bounded.",
+  "status": "reviewed",
+  "created_at": "2026-08-14T09:58:11Z",
+  "updated_at": "2026-08-14T12:59:39Z"
+}
